@@ -1,0 +1,23 @@
+body{
+    background-color: beige;
+    background-image: -o-repeating-linear-gradient();
+}
+h1
+{
+    text-align: center;
+}
+img{
+    border: beige;
+    border-image: auto;
+    padding-right: 50%;
+}
+h2
+{
+    text-align: center;
+    background-color:rgb(61, 60, 60);
+    color: white;
+}
+body > table > tr > td > p.profil {
+    text-align: right;
+    color: blue;
+}
